@@ -1,0 +1,3 @@
+﻿ID;Icon;Tiar;ItemEffectType;BaseValue;StackValue
+Jagged Blade;;White;OnHit;0.1;0.1
+Plague Needle;;Grean;OnHit;0.02;0.02
